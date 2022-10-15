@@ -11,13 +11,41 @@
     "href": "index.html",
     "title": "Reproducible Research with R Markdown",
     "section": "",
-    "text": "This workshop website is developed and maintained by Dr. Priyanga D. Talagala and Dr. Thiyanga S. Talagala\nThis hands-on workshop aims to equip participants with the fundamentals of reproducible research with R Markdown and related tools. The workshop will be taught in a similar style to Data Carpentry workshops. Data Carpentry’s mission is to train researchers in the core data skills for efficient, shareable, and reproducible research practices."
+    "text": "This workshop website is developed and maintained by Dr. Priyanga D. Talagala and Dr. Thiyanga S. Talagala\nThis hands-on workshop aims to equip participants with the fundamentals of reproducible research with R Markdown and related tools. This is designed for those who have no or little prior experience with R Markdown and who want to learn Quarto, which is the next generation of R Markdown for publishing, including dynamic and static documents and multi-lingual programming language support.\nThe workshop will be taught in a similar style to Data Carpentry workshops. Data Carpentry’s mission is to train researchers in the core data skills for efficient, shareable, and reproducible research practices.\nThese materials are designed and developed for a trainer-led workshop at the Research Lounge on October 18, 2022, organized by the Faculty of Graduate Studies and University Library, University of Moratuwa, Sri Lanka, but should be useful for self-guided learning as well."
   },
   {
-    "objectID": "index.html#brief-content",
-    "href": "index.html#brief-content",
+    "objectID": "index.html#content",
+    "href": "index.html#content",
     "title": "Reproducible Research with R Markdown",
-    "section": "Brief content",
-    "text": "Brief content\n\nReproducibility crisis\nReproducible report writing with R Markdown\nReproducible thesis writing with R Markdown\nReproducible manuscript writing with R Markdown\nReproducible presentation slides with R Markdown\nOnline publishing with R Markdown\nIntroduction to Quarto, a next generation R Markdown"
+    "section": "Content",
+    "text": "Content\n\nReproducibility crisis\nIntroduction to R and R studio\nReproducible report writing with R Markdown\nReproducible thesis writing with R Markdown\nReproducible manuscript writing with R Markdown\nReproducible presentation slides with R Markdown\nOnline publishing with R Markdown\nIntroduction to Quarto, the next generation of R Markdown"
+  },
+  {
+    "objectID": "index.html#prerequisite",
+    "href": "index.html#prerequisite",
+    "title": "Reproducible Research with R Markdown",
+    "section": "Prerequisite",
+    "text": "Prerequisite\nThis is expected to benefit participants in a vast number of future projects. R works on pretty much every platform available, including the widely available Windows, Mac OS X, and Linux systems. In this workshop, we will be using the free and open-source program R, along with a user interface called RStudio. However, the participants are not expected to have any prior experience with either."
+  },
+  {
+    "objectID": "index.html#prework",
+    "href": "index.html#prework",
+    "title": "Reproducible Research with R Markdown",
+    "section": "Prework",
+    "text": "Prework\nAttendees are expected to have R, RStudio and quarto installed on their own computers."
+  },
+  {
+    "objectID": "index.html#installation-guide-of-r-and-rstudio",
+    "href": "index.html#installation-guide-of-r-and-rstudio",
+    "title": "Reproducible Research with R Markdown",
+    "section": "Installation Guide of R and Rstudio",
+    "text": "Installation Guide of R and Rstudio\nThe first thing you need to do to get started with R and RStudio is to install them on your computer. You must first download the latest version of R and install it. After that, you can download and install RStudio. Finally, you can download and install Quarto.\nStep 1: Install R and RStudio\n\n🖥️ Windows users: Click here to view the guide\n🍏 macOS users: Click here to view the guide\n🐧 Linux users: Click here to view the guide\n\nStep 2: Install Quarto\n\nInstall quarto- Click here to view the guide"
+  },
+  {
+    "objectID": "index.html#licence",
+    "href": "index.html#licence",
+    "title": "Reproducible Research with R Markdown",
+    "section": "Licence",
+    "text": "Licence\n This work is licensed under a Creative Commons Attribution 4.0 International License."
   }
 ]
