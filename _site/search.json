@@ -11,6 +11,6 @@
     "href": "index.html",
     "title": "rmdweb",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "title: “Reproducible Research with R Markdown”\n---\n**This workshop website is developed and maintained by [Dr. Priyanga D. Talagala](https://prital.netlify.app/) and [Dr. Thiyanga S. Talagala](https://thiyanga.netlify.app/)**\n**This hands-on workshop aims to equip participants with the fundamentals of reproducible research with R Markdown and related tools. The workshop will be taught in a similar style to Data Carpentry workshops. Data Carpentry\\’s mission is to train researchers in the core data skills for efficient, shareable, and reproducible research practices.**\n## Brief content\n- Reproducibility crisis\n- Reproducible report writing with R Markdown\n- Reproducible thesis writing with R Markdown\n- Reproducible manuscript writing with R Markdown\n- Reproducible presentation slides with R Markdown\n- Online publishing with R Markdown\n- Introduction to Quarto, a next generation R Markdown"
   }
 ]
