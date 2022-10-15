@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "rmdweb"
+  title: "Reproducible Research with R Markdown"
   navbar:
     left:
       - href: index.qmd
