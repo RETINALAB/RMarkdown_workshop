@@ -1,9 +1,22 @@
 ---
-title: "About"
+title: "Workshop Materials"
 ---
 
-About this site
+## Reproducible Research with R Markdown
 
-```{r}
-1 + 1
+Introduction
+
+```{=html}
+<iframe class="slide-deck" src="slides/1_intro/2022_IASSL_R.html"></iframe>
 ```
+
+
+Lesson 1
+
+```{=html}
+<iframe class="slide-deck" src="slides/2_ex1/example1.html"></iframe>
+```
+
+Lesson 3
+
+[slides](https://prital.netlify.app/talks/jasm2022/jasm2022#1)
